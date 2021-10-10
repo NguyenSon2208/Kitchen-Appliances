@@ -12,7 +12,7 @@ angular.module("eprojectApp",[
     'eprojectApp.frying-pans',
     'eprojectApp.cookware-sets',
     'eprojectApp.handis',
-    'eprojectApp.kadais',
+    //'eprojectApp.kadais',
     'eprojectApp.grill-pans',
     'eprojectApp.tawas',
     'eprojectApp.egg-poachers',
