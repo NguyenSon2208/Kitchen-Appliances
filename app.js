@@ -12,7 +12,7 @@ angular.module("eprojectApp",[
     'eprojectApp.frying-pans',
     'eprojectApp.cookware-sets',
     'eprojectApp.handis',
-    //'eprojectApp.kadais',
+    'eprojectApp.kadais',
     'eprojectApp.grill-pans',
     'eprojectApp.tawas',
     'eprojectApp.egg-poachers',
@@ -73,7 +73,7 @@ angular.module("eprojectApp",[
     .when("/frying-pans", {templateUrl: "frying-pans/frying-pans.html", controller:"frying-pansCtrl"})
     .when("/cookware-sets", {templateUrl: "cookware-sets/cookware-sets.html", controller:"cookware-setsCtrl"})
     .when("/handis", {templateUrl: "handis/handis.html", controller:"handisCtrl"})
-    //.when("/kadais", {templateUrl: "kadais/kadais.html", controller:"kadaisCtrl"})
+    .when("/kadais", {templateUrl: "kadais/kadais.html", controller:"kadaisCtrl"})
     .when("/grill-pans", {templateUrl: "grill-pans/grill-pans.html", controller:"grill-pansCtrl"})
     .when("/tawas", {templateUrl: "tawas/tawas.html", controller:"tawasCtrl"})
     .when("/egg-poachers", {templateUrl: "egg-poachers/egg-poachers.html", controller:"egg-poachersCtrl"})
