@@ -21,7 +21,7 @@ eProject documentation at: https://github.com/NguyenSon2208/Kitchen-Appliances/t
 
 ============================
 
-eProject published at: 
+eProject published at: https://nguyenson2208.github.io/Kitchen-Appliances/
 
 ============================
 
