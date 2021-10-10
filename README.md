@@ -25,7 +25,7 @@ eProject published at: https://nguyenson2208.github.io/Kitchen-Appliances/
 
 ============================
 
-eProject video published at: https://www.youtube.com/watch?v=fPZ8EYfJtfw
+eProject video published at: https://www.youtube.com/watch?v=YPr7iAjX_sc
 
 ============================
 
