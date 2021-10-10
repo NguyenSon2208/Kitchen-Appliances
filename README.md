@@ -1,9 +1,9 @@
-# eproject-Tasha
+# eproject-Kitchen Appliances
 T1.2106.E1 eProject group 6
 
 CENTER NAME: ACE-HCMC-2-FPT
 
-Project-title: Tasha Website
+Project-title: Kitchen Appliances Website
 
 =========> Group 6 <=========
 
