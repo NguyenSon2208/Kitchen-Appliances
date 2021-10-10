@@ -8,11 +8,13 @@ Project-title: Tasha Website
 =========> Group 6 <=========
 
 2 collarborators:
-
+<pre>
+<code>
 Group members                  Name	                                 Student ID
                                Nguyễn Tiêu An Sơn (Team leader)      Student1316803
                                Nguyễn Thanh Phong                    Student1319918
-                                    
+</code>
+</pre>
 ============================
 
 eProject documentation at: 
