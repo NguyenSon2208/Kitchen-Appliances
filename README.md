@@ -17,7 +17,7 @@ Group members                  Name	                                 Student ID
 </pre>
 ============================
 
-eProject documentation at: 
+eProject documentation at: https://github.com/NguyenSon2208/Kitchen-Appliances/tree/main/Review%20Group-6
 
 ============================
 
